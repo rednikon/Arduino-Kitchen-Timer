@@ -14,3 +14,6 @@ Building an Arduino-powered kitchen timer at home.
   * Buzzer
   * Jumper wires
   * Housing
+
+
+## Background
