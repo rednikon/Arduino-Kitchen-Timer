@@ -1,7 +1,6 @@
 # Arduino-Kitchen-Timer
 Building an Arduino-powered kitchen timer at home.
 
-Instructions found: https://www.instructables.com/id/Arduino-Controlled-Kitchen-Timer/
 
 ## Materials:
   * Arduino UNO
@@ -15,7 +14,16 @@ Instructions found: https://www.instructables.com/id/Arduino-Controlled-Kitchen-
   * Battery plug
   * Buzzer
   * Jumper wires
-  * Housing
+  * Case
 
 
-## Background
+## Tools
+  * Dremel
+  * Soldering Iron
+  * Hot Glue Gun
+  
+
+## Resources:
+  * Instructions for the project found at: https://www.instructables.com/id/Arduino-Controlled-Kitchen-Timer/
+  * Intro to Arduino Guide: https://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/
+  * 
