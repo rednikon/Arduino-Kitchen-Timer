@@ -2,7 +2,7 @@
 Building an Arduino-powered kitchen timer at home.
 
 
-## Materials:
+## Materials
   * Arduino UNO
   * LCD display
   * 2 - push buttons
@@ -22,8 +22,11 @@ Building an Arduino-powered kitchen timer at home.
   * Soldering Iron
   * Hot Glue Gun
   
+## Documents
+ * 
+
 
 ## Resources:
-  * Instructions for the project found at: https://www.instructables.com/id/Arduino-Controlled-Kitchen-Timer/
+  * Instructions for the project: https://www.instructables.com/id/Arduino-Controlled-Kitchen-Timer/
   * Intro to Arduino Guide: https://www.makeuseof.com/tag/getting-started-with-arduino-a-beginners-guide/
-  * 
+  * Uno Schematic: https://www.allaboutcircuits.com/technical-articles/understanding-arduino-uno-hardware-design/
