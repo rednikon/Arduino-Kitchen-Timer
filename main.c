@@ -1,5 +1,4 @@
 //
-//  main.c
 //  Kitchen Timer Project
 //
 //  Created by Vee McClure on 10/30/19.
